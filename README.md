@@ -1,1 +1,1 @@
-# lottery-project
+# lottery
